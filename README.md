@@ -20,6 +20,17 @@ A reproducible EEG classification project developed for the THOR × NeuroBench C
 
 > The 74.13% figure is an internal clean-package validation result, not an official challenge ranking or leaderboard score.
 
+### 📱 [Smartphone Addiction — Kaggle Playground Series S6E8](https://github.com/miladakbariv/smartphone-addiction-kaggle)
+
+An end-to-end tabular ML project focused on robust validation, leakage-safe feature engineering, reusable code, and transparent experiment tracking.
+
+- **691k+** training samples with **ROC-AUC** evaluation
+- Compared Logistic Regression, LightGBM, CatBoost, and XGBoost under a consistent validation scheme
+- Improved mean CV ROC-AUC from **0.91145 to 0.96774**
+- Achieved **0.96921 Kaggle Public LB ROC-AUC** with the independently developed pipeline
+- Implemented nested cross-fitted exact-value target encoding to avoid target leakage
+- Added structural screen-time features, ablation studies, reusable `src/` modules, unit tests, and GitHub Actions CI
+
 ### 📊 [EuroMillions ML Exploration](https://github.com/miladakbariv/euromillions-ml-exploration)
 
 A responsible statistical/ML case study built around a deliberately difficult question: whether historical frequency-based lottery strategies can demonstrate a stable advantage over a random baseline.
@@ -37,7 +48,7 @@ A responsible statistical/ML case study built around a deliberately difficult qu
 Python · NumPy · Pandas · SQL (basic) · data preparation · exploratory analysis
 
 **Machine Learning & AI**  
-PyTorch · scikit-learn · supervised learning · deep learning · reinforcement learning · probabilistic modeling · model evaluation
+PyTorch · scikit-learn · XGBoost · LightGBM · CatBoost · supervised learning · deep learning · reinforcement learning · probabilistic modeling · model evaluation
 
 **Signal Processing & Multimodal AI**  
 EEG/BCI · FFT · CFAR · LMS/RLS · radar-camera fusion · computer vision fundamentals · sensor fusion
