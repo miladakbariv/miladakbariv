@@ -73,4 +73,5 @@ I am completing an **MSc in Artificial Intelligence at JKU**, with coursework sp
 
 ## Connect
 
-GitHub: [@miladakbariv](https://github.com/miladakbariv)
+GitHub: [@miladakbariv](https://github.com/miladakbariv)  
+LinkedIn: [milad-akbarivarmazyar](https://www.linkedin.com/in/milad-akbarivarmazyar/)
