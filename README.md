@@ -1,26 +1,30 @@
 # Milad Akbarivarmazyar
 
 **MSc Artificial Intelligence Candidate @ Johannes Kepler University (JKU)**  
-Applied Machine Learning · Deep Learning · Signal Processing · Edge AI
+**🏆 1st Place, THOR x NeuroBench Challenge 2026, Track 1: Absolute Accuracy**
 
-I build practical, evaluation-driven ML systems with a focus on reproducible experimentation, signal understanding, and deployment-aware engineering. My current work sits at the intersection of **machine learning, EEG/BCI, multimodal sensing, signal processing, and Edge AI**.
+Applied Machine Learning · EEG/BCI · Signal Processing · Edge AI · Data Analytics
+
+I build practical, evaluation-driven ML systems with a focus on reproducible experimentation, signal understanding, and efficiency-aware engineering. My current work sits at the intersection of **machine learning, EEG/BCI, multimodal sensing, signal processing, and Edge AI**.
 
 ## Featured Projects
 
-### 🧠 [THOR × NeuroBench 2026 — EEG Motor-Imagery Classification](https://github.com/miladakbariv/thor-neurobench-eeg-mi)
+### 🏆 [THOR x NeuroBench 2026 - EEG Motor-Imagery Classification](https://github.com/miladakbariv/thor-neurobench-eeg-mi)
 
-A reproducible EEG classification project developed for the THOR × NeuroBench Challenge 2026 under **Team EdgeSynapse AI**.
+Winning **Track 1: Absolute Accuracy** submission developed under **EdgeSynapse AI**, affiliated with **Johannes Kepler University Linz**.
 
+- **1st Place** in Track 1: Absolute Accuracy
+- **73.38% official test accuracy**
+- **14.27M weighted operations**, less than half the official baseline's **31.09M**
 - Binary left-vs-right motor-imagery classification from **62-channel EEG**
-- Official sample shape: **250 time steps × 62 channels**
-- Progressed from statistical/linear baselines to CNN, EEGNet-style and ensemble experiments
-- Built a NeuroBench-compatible clean submission workflow
+- Progressed from linear/statistical baselines to EEG-oriented neural architectures and ensemble experiments
+- Built a NeuroBench-compatible, reproducible evaluation and clean-submission workflow
 - Final clean-package internal validation: **1281 / 1728 = 74.13%**
-- Public repository intentionally separates portfolio-safe code/documentation from private challenge artifacts
+- Added model-shape smoke tests and GitHub Actions CI
 
-> The 74.13% figure is an internal clean-package validation result, not an official challenge ranking or leaderboard score.
+> Official challenge evaluation and internal validation are reported separately: **73.38% official test accuracy** vs **74.13% internal clean-package validation**.
 
-### 📱 [Smartphone Addiction — Kaggle Playground Series S6E8](https://github.com/miladakbariv/smartphone-addiction-kaggle)
+### 📱 [Smartphone Addiction - Kaggle Playground Series S6E8](https://github.com/miladakbariv/smartphone-addiction-kaggle)
 
 An end-to-end tabular ML project focused on robust validation, leakage-safe feature engineering, reusable code, and transparent experiment tracking.
 
@@ -53,18 +57,18 @@ PyTorch · scikit-learn · XGBoost · LightGBM · CatBoost · supervised learnin
 **Signal Processing & Multimodal AI**  
 EEG/BCI · FFT · CFAR · LMS/RLS · radar-camera fusion · computer vision fundamentals · sensor fusion
 
-**Engineering Tools**  
-Git/GitHub · Jupyter · Conda · Linux · Matplotlib · Docker fundamentals · CI/CD fundamentals · MLflow concepts
+**Engineering & Reproducibility**  
+Git/GitHub · pytest · GitHub Actions · Jupyter · Conda · Linux · Matplotlib · Docker fundamentals · CI/CD fundamentals · MLflow concepts
 
 ## Current Direction
 
 I am especially interested in work involving:
 
 - Applied Machine Learning / ML Engineering
+- EEG / BCI and biomedical signal intelligence
+- Edge AI and efficient machine learning
 - Computer Vision and multimodal perception
-- EEG / biomedical signal intelligence
 - Radar, sensor fusion and intelligent perception
-- Edge AI and efficient inference
 - Research engineering with strong experimental methodology
 
 ## Background
